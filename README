@@ -1,0 +1,13 @@
+SERVER ADRESS PLUGIN IN DEUTSCH
+
+
+Sag "Wie ist deine Adresse" und Siri antwortet.
+
+
+So installierst Du dieses Plugin: 
+
+# 1: Lade den "adrbild" ordner in ~/SiriServerCore/plugins/ 
+
+# 2: Fügen Sie "adrbild" in plugins.conf ein
+
+FERTIG
